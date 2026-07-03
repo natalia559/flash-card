@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'robotica,
+    'robotica',
     'O que é um código ou programa em robótica?',
     'É um conjunto de instruções escritas em uma linguagem específica que diz ao robô o que ele deve fazer.'
 )
